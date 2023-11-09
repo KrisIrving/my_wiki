@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+    name: "material"
+    logo:
+        icon: "logo"
+    palette:
+        primary: "black"
+        accent: "white"
+    language: "zh"
